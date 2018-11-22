@@ -1,0 +1,9 @@
+.line-margin {
+    margin-top: 7px;
+}
+
+.link-container {
+    display: flex;
+    flex-direction: row;
+    justify-self: right;
+}
